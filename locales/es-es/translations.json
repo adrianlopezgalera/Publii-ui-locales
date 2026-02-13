@@ -391,7 +391,7 @@
       "selectLinkType":"Tipo de enlace"
    },
    "menu":{
-      "addMenuItem":"Añadir menú",
+      "addMenuItem":"Añadir elemento al menú",
       "addNewMenu":"Añadir nuevo menú",
       "addNewMenuItem":"Añadir nuevo elemento al menú",
       "addSubmenu":"Añadir submenú",
@@ -1509,3 +1509,4 @@
       "whatsNew":"Novedades"
    }
 }
+
